@@ -1,3 +1,11 @@
+接毕业设计和论文
+
+作者QQ：3042127848 微信：FY-yuanma (支持修改、 部署调试、 支持代做毕设)
+
+接网站建设、小程序、H5、APP、各种系统等
+
+选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
+
 | 序号 | 项目                                                         | csdn地址                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | SSM学生信息管理系统(学生端+教师端+管理员端)【附源码】        | [SSM学生信息管理系统(学生端+教师端+管理员端)【附源码】_晚安独角兽的博客-CSDN博客](https://blog.csdn.net/javayoungcoolboy/article/details/131015117) |
@@ -86,6 +94,12 @@
 | 84   | 基于SpringBoot+vue的在线商城系统(含源码 数据库+文档免费送）  | https://blog.csdn.net/javayoungcoolboy/article/details/137645402?spm=1001.2014.3001.5502 |
 | 85   | 基于SpringBoot+vue网上点餐系统包含万字文档                   | https://blog.csdn.net/javayoungcoolboy/article/details/137651762?spm=1001.2014.3001.5502 |
 | 86   | springboot+vue宠物爱心组织管理系统附赠万字文档               | https://blog.csdn.net/javayoungcoolboy/article/details/137653837?spm=1001.2014.3001.5502 |
+接毕业设计和论文
 
+作者QQ：3042127848 微信：FY-yuanma (支持修改、 部署调试、 支持代做毕设)
+
+接网站建设、小程序、H5、APP、各种系统等
+
+选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
 
 
